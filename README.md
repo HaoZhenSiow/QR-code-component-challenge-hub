@@ -13,8 +13,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop
+---
+![Desktop](images/desktop.png)
 
+#### Mobile
+---
+![Mobile](images/mobile.png)
 
 ### Links
 
